@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(FilterImg)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(FilterImg src/main.cpp src/ImgProcUtils.cpp)
+target_link_libraries(FilterImg ${OpenCV_LIBS})

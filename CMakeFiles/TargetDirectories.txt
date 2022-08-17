@@ -1,0 +1,3 @@
+/home/zaktron/phd/filtering/CMakeFiles/rebuild_cache.dir
+/home/zaktron/phd/filtering/CMakeFiles/edit_cache.dir
+/home/zaktron/phd/filtering/CMakeFiles/FilterImg.dir
